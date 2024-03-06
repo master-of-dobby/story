@@ -1,4 +1,8 @@
 Hi I am good!
 U do?
 ere.
+<<<<<<< HEAD
 so what dude! We are the HUMANS - Creators of THE WORLD :)
+=======
+ -- I too an alien 2.0 Here : )
+>>>>>>> alien
